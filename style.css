@@ -1,0 +1,40 @@
+.menu {
+
+    display : flex;
+
+    justify-content : space-between;
+
+    background-color : #ffe600;
+
+    padding : 15px;
+
+    font-size : 20px;
+
+
+}
+
+.grid{
+
+    display : flex;
+
+    flex-wrap : wrap;
+
+    justify-content: space-evenly;
+
+    border 
+}
+
+.origami{
+
+    display : flex;
+
+    flex-direction : column;
+
+    justify-content: first-baseline;
+
+    border : solid blue;
+}
+
+    
+
+
